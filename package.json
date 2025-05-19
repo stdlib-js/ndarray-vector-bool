@@ -43,7 +43,7 @@
   "devDependencies": {
     "@stdlib/array-bool": "^0.1.0",
     "@stdlib/array-buffer": "^0.2.2",
-    "@stdlib/array-float64": "^0.2.2",
+    "@stdlib/array-uint8": "^0.2.2",
     "@stdlib/assert-is-equal-booleanarray": "github:stdlib-js/assert-is-equal-booleanarray#main",
     "@stdlib/assert-is-ndarray-like": "^0.2.2",
     "@stdlib/assert-is-ndarray-like-with-data-type": "github:stdlib-js/assert-is-ndarray-like-with-data-type#main",
