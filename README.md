@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import BooleanVector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-bool@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-vector-bool/tags). For example,
+
+```javascript
 import BooleanVector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-bool@v0.1.0-deno/mod.js';
 ```
 
@@ -156,7 +161,7 @@ var len3 = numel( arr3 );
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
 import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-every@deno/mod.js';
 import map from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-map@deno/mod.js';
-import BooleanVector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-bool@v0.1.0-deno/mod.js';
+import BooleanVector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-bool@deno/mod.js';
 
 // Create a vector containing random values:
 var x = new BooleanVector( bernoulli( 10, 0.9 ) );
