@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import BooleanVector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-bool@deno/mod.js';
+import BooleanVector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-bool@v0.1.0-deno/mod.js';
 ```
 
 #### BooleanVector( \[options] )
@@ -156,7 +156,7 @@ var len3 = numel( arr3 );
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
 import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-every@deno/mod.js';
 import map from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-map@deno/mod.js';
-import BooleanVector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-bool@deno/mod.js';
+import BooleanVector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-bool@v0.1.0-deno/mod.js';
 
 // Create a vector containing random values:
 var x = new BooleanVector( bernoulli( 10, 0.9 ) );
