@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-vector-bool",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create a boolean vector (i.e., a one-dimensional ndarray).",
   "license": "Apache-2.0",
   "author": {
@@ -41,18 +41,18 @@
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
-    "@stdlib/array-bool": "^0.1.0",
+    "@stdlib/array-bool": "^0.1.1",
     "@stdlib/array-buffer": "^0.2.2",
     "@stdlib/array-uint8": "^0.2.2",
     "@stdlib/assert-is-equal-booleanarray": "github:stdlib-js/assert-is-equal-booleanarray#main",
     "@stdlib/assert-is-ndarray-like": "^0.2.2",
-    "@stdlib/assert-is-ndarray-like-with-data-type": "github:stdlib-js/assert-is-ndarray-like-with-data-type#main",
+    "@stdlib/assert-is-ndarray-like-with-data-type": "^0.1.0",
     "@stdlib/buffer-from-array": "^0.2.2",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/ndarray-base-assert-is-read-only": "^0.2.2",
     "@stdlib/ndarray-data-buffer": "^0.2.2",
-    "@stdlib/ndarray-every": "github:stdlib-js/ndarray-every#main",
-    "@stdlib/ndarray-map": "github:stdlib-js/ndarray-map#main",
+    "@stdlib/ndarray-every": "^0.1.0",
+    "@stdlib/ndarray-map": "^0.1.0",
     "@stdlib/random-array-bernoulli": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",

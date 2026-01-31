@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-09-01)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`3f7b1ed`](https://github.com/stdlib-js/stdlib/commit/3f7b1ed405cdb77a3357d424f462e8d3b2276df5) - **docs:** fix code in TSDoc examples _(by Philipp Burckhardt)_
 -   [`a8d1b40`](https://github.com/stdlib-js/stdlib/commit/a8d1b40510aee43e3ce0e6e663ee79f149429390) - **test:** fix require path _(by Athan Reines)_
 -   [`c08c18d`](https://github.com/stdlib-js/stdlib/commit/c08c18d74faca63932755275c9f9bc08742f1fe6) - **feat:** add `ndarray/vector/bool` _(by Athan Reines)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
