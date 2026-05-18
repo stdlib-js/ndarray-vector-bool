@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-17)
+## Unreleased (2026-05-18)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1e7acc6`](https://github.com/stdlib-js/stdlib/commit/1e7acc6e50e0cf193de415fcb4d864755757aa99) - **test:** use accessor functions _(by Athan Reines)_
 -   [`b2eb5da`](https://github.com/stdlib-js/stdlib/commit/b2eb5da5b94858e0d40f62ebe33ef5f52d398acc) - **docs:** update related packages sections [(#12164)](https://github.com/stdlib-js/stdlib/pull/12164) _(by stdlib-bot)_
 -   [`6d6b9d4`](https://github.com/stdlib-js/stdlib/commit/6d6b9d42d8904ca49fb55e2ca464780573886aa0) - **bench:** refactor to use string interpolation in `@stdlib/ndarray` [(#11446)](https:-/github.com/stdlib-js/stdlib/pull/11446) _(by Karan Anand)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 
 </section>
