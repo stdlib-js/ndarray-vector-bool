@@ -1,5 +1,5 @@
-"use strict";var a=function(t,r){return function(){return r||t((r={exports:{}}).exports,r),r.exports}};var o=a(function(v,e){
-var s=require('@stdlib/ndarray-vector-ctor/dist').factory,c=s("bool");e.exports=c
-});var i=o();module.exports=i;
+"use strict";var s=function(t,r){return function(){try{return r||t((r={exports:{}}).exports,r),r.exports}catch(a){throw (r=0, a)}};};var o=s(function(f,e){
+var c=require('@stdlib/ndarray-vector-ctor/dist').factory,i=c("bool");e.exports=i
+});var u=o();module.exports=u;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
